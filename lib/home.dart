@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import './game_of_life.dart';
-import './game_of_life_painter.dart';
+import 'game_of_life.dart';
+import 'game_of_life_painter.dart';
 
 class Home extends StatelessWidget {
   const Home({super.key});
